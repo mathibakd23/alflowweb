@@ -1,0 +1,1 @@
+<template><div><header style="padding:16px;border-bottom:1px solid #ddd">Alflow Portal</header><div style="display:flex"><aside style="width:220px;padding:16px"><ul><li>Forside</li><li>Produkter</li><li>Kurv</li><li>Ordrer</li></ul></aside><main style="padding:16px"><slot/></main></div></div></template>
